@@ -3,4 +3,4 @@ Esta lista de tarefas foi utilizada pela última empresa em que eu trabalhei. Ne
 
 <br><br>
 Segue o link:
-https://petersonfernandocouto.github.io/final/
+https://petersonfernandocouto.github.io/Lista-De-Tarefas/
